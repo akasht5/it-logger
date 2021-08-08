@@ -1,0 +1,25 @@
+{
+  "logs": [
+    {
+      "id": 6,
+      "message": "Workstation 072 all good !",
+      "attention": false,
+      "tech": "Ben Jackson",
+      "date": "2020-08-02T17:15:17.403Z"
+    },
+    {
+      "id": 8,
+      "message": "Server up running All good !",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-08-02T17:16:54.454Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    }
+  ]
+}
